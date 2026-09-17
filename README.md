@@ -13,7 +13,7 @@ This project investigates whether NFL home-field advantage has decreased since t
 The analysis compares two periods:
 
 * **Pre-COVID:** 2010–2019
-* **Post-COVID:** 2021–2025
+* **Post-COVID:** 2021–Present
 * **2020:** Excluded due to unusual game and attendance conditions during the pandemic.
 
 Home-field advantage was evaluated using:
